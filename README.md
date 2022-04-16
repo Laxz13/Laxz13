@@ -1,5 +1,5 @@
 <div>
-  <img align="right" width="450" src="images/computer3.svg" alt="avatar">
+  <img align="right" width="450" src="https://github.com/FhillSlinger/FhillSlinger/raw/main/images/computer3.svg" alt="avatar">
   <h1>About me</h1>
   <p align="left">
      My name is Rui, I'm 1 years old and I'm a 
